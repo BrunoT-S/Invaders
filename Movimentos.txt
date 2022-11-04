@@ -1,0 +1,5 @@
+Tecla esquerda (<-) para movimentar-se para a esquerda
+Tecla direita (->) para movimentar-se para a direita
+Tecla (Z) para movimentar-se mais rapido
+Tecla (X) para atirar
+Tecla (P) para pausar
